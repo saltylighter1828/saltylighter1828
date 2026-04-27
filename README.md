@@ -24,9 +24,9 @@ I'm transitioning into Web3 infrastructure with a focus on **node operations, re
 
 ---
 
-### 📚 Continuous Learning
+### 📚 Currently Learning
 
-Currently working through Cyfrin Updraft (Advanced Foundry, Web3 Wallet Security), Immunefi bug bounty curriculum, and deep-diving into blockchain infrastructure best practices.
+Deep-diving into blockchain infrastructure — running Ethereum nodes, building observability stacks, and learning the reliability engineering practices behind institutional-grade validator operations.
 
 ---
 
