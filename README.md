@@ -6,7 +6,7 @@ I'm transitioning into Web3 infrastructure with a focus on **node operations, re
 
 ---
 
-### What I'm working on
+###  What I'm working on
 
 - **[blockchain-infra-playbook](https://github.com/saltylighter1828/blockchain-infra-playbook)** — A hands-on playbook covering Linux, systemd, networking, node operations, and real-world debugging
 - **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Kubernetes fundamentals on k3s: Pods, Deployments, StatefulSets with persistent storage — building toward Ethereum node deployment on k8s
