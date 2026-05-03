@@ -8,12 +8,12 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 
 ### What I'm working on
 
-- 🏗️ **[blockchain-infra-playbook](https://github.com/saltylighter1828/blockchain-infra-playbook)** — Hands-on playbook covering Linux, systemd, networking, node operations, and real-world debugging
-- ☸️ **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Full Ethereum node stack on Kubernetes: Nethermind + Lighthouse with StatefulSets, persistent storage, JWT auth, Helm-deployed Prometheus/Grafana, and liveness probes
-- 🌍 **[terraform-practice](https://github.com/saltylighter1828/terraform-practice)** — Validator infrastructure provisioned on Hetzner Cloud via Terraform
-- 📊 **[ai-observability-lab](https://github.com/saltylighter1828/ai-observability-lab)** — Containerization, monitoring, GPU metrics, and inference observability
-- 🔐 **[smart-contract-audits](https://github.com/saltylighter1828/smart-contract-audits)** — Security research and audit findings portfolio
-- 🏛️ **[DAO](https://github.com/saltylighter1828/DAO)** — On-chain DAO with OpenZeppelin Governor and Timelock
+-  **[blockchain-infra-playbook](https://github.com/saltylighter1828/blockchain-infra-playbook)** — Hands-on playbook covering Linux, systemd, networking, node operations, and real-world debugging
+-  **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Full Ethereum node stack on Kubernetes: Nethermind + Lighthouse with StatefulSets, persistent storage, JWT auth, Helm-deployed Prometheus/Grafana, and liveness probes
+-  **[terraform-practice](https://github.com/saltylighter1828/terraform-practice)** — Validator infrastructure provisioned on Hetzner Cloud via Terraform
+-  **[ai-observability-lab](https://github.com/saltylighter1828/ai-observability-lab)** — Containerization, monitoring, GPU metrics, and inference observability
+-  **[smart-contract-audits](https://github.com/saltylighter1828/smart-contract-audits)** — Security research and audit findings portfolio
+-  **[DAO](https://github.com/saltylighter1828/DAO)** — On-chain DAO with OpenZeppelin Governor and Timelock
 
 ---
 
