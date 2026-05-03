@@ -1,4 +1,4 @@
-# Hi, I'm Antony
+# Hi, I'm Antony 
 
 **Blockchain Infrastructure Engineer** based in Melbourne, Australia 🇦🇺
 
@@ -6,10 +6,10 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 
 ---
 
-### What I'm working on
+###  What I'm working on
 
 -  **[blockchain-infra-playbook](https://github.com/saltylighter1828/blockchain-infra-playbook)** — Hands-on playbook covering Linux, systemd, networking, node operations, and real-world debugging
--  **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Full Ethereum node stack on Kubernetes: Nethermind + Lighthouse with StatefulSets, persistent storage, JWT auth, Helm-deployed Prometheus/Grafana, and liveness probes
+-  **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Full Ethereum node stack on Kubernetes: Nethermind + Lighthouse with StatefulSets, persistent storage, JWT auth, Helm-deployed Prometheus/Grafana, liveness probes, and GitHub Actions CI/CD pipeline
 -  **[terraform-practice](https://github.com/saltylighter1828/terraform-practice)** — Validator infrastructure provisioned on Hetzner Cloud via Terraform
 -  **[ai-observability-lab](https://github.com/saltylighter1828/ai-observability-lab)** — Containerization, monitoring, GPU metrics, and inference observability
 -  **[smart-contract-audits](https://github.com/saltylighter1828/smart-contract-audits)** — Security research and audit findings portfolio
@@ -17,27 +17,29 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 
 ---
 
-### Focus Areas
+###  Focus Areas
 
 - **Validator & node operations** — Ethereum mainnet, PoS networks
 - **Kubernetes & container orchestration** — StatefulSets, PVCs, Ingress, Helm, liveness probes
 - **Infrastructure as code** — Terraform, Hetzner Cloud, reproducible deployments
+- **CI/CD** — GitHub Actions, automated validation pipelines
 - **Linux, systemd, networking** — the boring stuff that keeps things running
 - **Monitoring & observability** — Prometheus, Grafana, Alertmanager
 - **Smart contract security** — Solidity, Foundry, static analysis
 
 ---
 
-### Recently Completed
+###  Recently Completed
 
 - Deployed Nethermind + Lighthouse on Kubernetes with persistent storage and JWT authentication
 - Helm-deployed Prometheus + Grafana stack with pre-built Kubernetes dashboards
 - Debugged 5 real liveness/readiness probe failure scenarios on live pods
 - Provisioned Hetzner Cloud validator server via Terraform
+- Built GitHub Actions CI/CD pipeline for automated Kubernetes YAML validation
 
 ---
 
-### Let's connect
+###  Let's connect
 
 -  [LinkedIn](https://www.linkedin.com/in/antony-cheng-8941531ab)
 -  [saltylighter@gmail.com](mailto:saltylighter@gmail.com)
