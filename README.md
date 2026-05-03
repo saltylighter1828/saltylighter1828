@@ -1,4 +1,4 @@
-# Hi, I'm Antony 👋
+# Hi, I'm Antony
 
 **Blockchain Infrastructure Engineer** based in Melbourne, Australia 🇦🇺
 
