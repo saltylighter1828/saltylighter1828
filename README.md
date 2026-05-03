@@ -39,7 +39,7 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 
 ### Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/antony-cheng-8941531ab)
-- 📧 [saltylighter@gmail.com](mailto:saltylighter@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/antony-cheng-8941531ab)
+-  [saltylighter@gmail.com](mailto:saltylighter@gmail.com)
 
 > *Open to blockchain infrastructure, validator operations, and reliability engineering roles — remote globally.*
