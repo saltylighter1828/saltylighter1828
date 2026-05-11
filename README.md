@@ -11,6 +11,7 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 -  **[blockchain-infra-playbook](https://github.com/saltylighter1828/blockchain-infra-playbook)** — Hands-on playbook covering Linux, systemd, networking, node operations, and real-world debugging
 -  **[k8s-practice](https://github.com/saltylighter1828/k8s-practice)** — Full Ethereum node stack on Kubernetes: Nethermind + Lighthouse with StatefulSets, persistent storage, JWT auth, Helm-deployed Prometheus/Grafana, liveness probes, and GitHub Actions CI/CD pipeline
 -  **[terraform-practice](https://github.com/saltylighter1828/terraform-practice)** — Validator infrastructure provisioned on Hetzner Cloud via Terraform
+-  **[ansible-practice](https://github.com/saltylighter1828/ansible-practice)** — Ansible playbooks for validator node provisioning, configuration management, and automation
 -  **[ai-observability-lab](https://github.com/saltylighter1828/ai-observability-lab)** — Containerization, monitoring, GPU metrics, and inference observability
 -  **[smart-contract-audits](https://github.com/saltylighter1828/smart-contract-audits)** — Security research and audit findings portfolio
 -  **[DAO](https://github.com/saltylighter1828/DAO)** — On-chain DAO with OpenZeppelin Governor and Timelock
@@ -22,6 +23,7 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 - **Validator & node operations** — Ethereum mainnet, PoS networks
 - **Kubernetes & container orchestration** — StatefulSets, PVCs, Ingress, Helm, liveness probes
 - **Infrastructure as code** — Terraform, Hetzner Cloud, reproducible deployments
+- **Configuration management** — Ansible playbooks, roles, handlers, templates
 - **CI/CD** — GitHub Actions, automated validation pipelines
 - **Linux, systemd, networking** — the boring stuff that keeps things running
 - **Monitoring & observability** — Prometheus, Grafana, Alertmanager
@@ -32,10 +34,12 @@ I build and operate blockchain infrastructure — Ethereum nodes, Kubernetes val
 ###  Recently Completed
 
 - Deployed Nethermind + Lighthouse on Kubernetes with persistent storage and JWT authentication
+- Deployed Sepolia testnet node on Kubernetes — Nethermind snap sync + Lighthouse checkpoint sync
 - Helm-deployed Prometheus + Grafana stack with pre-built Kubernetes dashboards
 - Debugged 5 real liveness/readiness probe failure scenarios on live pods
 - Provisioned Hetzner Cloud validator server via Terraform
 - Built GitHub Actions CI/CD pipeline for automated Kubernetes YAML validation
+- Completed Ansible course — playbooks, roles, handlers, conditionals, loops, Jinja2 templates
 
 ---
 
